@@ -4,7 +4,7 @@ Simple website representing online shop built with React
 
 ## Installation and setup
 
-In order to make app working correctly you need to implement/use backend api. You can find simple backend api with appropriate endpoints created for this project here: [django e-commerce api](https://github.com/fabiangro/django-e-commerce-api)
+In order to make app working correctly you need to implement/use backend api. You can find sample backend api with appropriate endpoints in my other repository: [django e-commerce api](https://github.com/fabiangro/django-e-commerce-api)
 
 Specify your api details in requests.js file or use the one linked above.
 
