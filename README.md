@@ -26,5 +26,4 @@ Database state (products from screenshots) was taken from https://fakestoreapi.c
 * [React Router](https://reactrouter.com/en/main)
 * [React Redux](https://react-redux.js.org/)
 * [Redux Toolkit](https://redux-toolkit.js.org/)
-* [Axios](https://www.npmjs.com/package/axios)
-* [tailwindcss](https://tailwindcss.com/)
+* [Axios](https://www.npmjs.com/package/axios) 
